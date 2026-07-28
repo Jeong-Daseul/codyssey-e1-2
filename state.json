@@ -1,0 +1,75 @@
+{
+    "quizzes": [
+        {
+            "question": "Python의 출력 함수는?",
+            "choices": [
+                "input",
+                "print",
+                "open",
+                "read"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Docker 이미지를 만드는 명령은?",
+            "choices": [
+                "docker run",
+                "docker build",
+                "docker start",
+                "docker pull"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Git에서 변경사항을 커밋하는 명령은?",
+            "choices": [
+                "git add",
+                "git commit",
+                "git push",
+                "git clone"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Python 파일의 일반적인 확장자는?",
+            "choices": [
+                ".java",
+                ".js",
+                ".py",
+                ".html"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Docker 컨테이너 목록을 확인하는 명령은?",
+            "choices": [
+                "docker ps",
+                "docker image",
+                "docker make",
+                "docker list"
+            ],
+            "answer": 1
+        }
+    ],
+    "best_score": 100.0,
+    "history": [
+        {
+            "played_at": "2026-07-28T20:44:57",
+            "total_questions": 5,
+            "correct_answers": 5,
+            "score": 100.0
+        },
+        {
+            "played_at": "2026-07-28T21:47:35",
+            "total_questions": 5,
+            "correct_answers": 4,
+            "score": 80.0
+        },
+        {
+            "played_at": "2026-07-28T22:32:42",
+            "total_questions": 5,
+            "correct_answers": 5,
+            "score": 100.0
+        }
+    ]
+}
