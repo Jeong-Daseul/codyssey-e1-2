@@ -10,7 +10,7 @@ Python, Docker, Git 기초 개념을 학습할 수 있는 콘솔 퀴즈 게임�
 PowerShell에서 프로젝트 폴더로 이동한 뒤 실행한다.
 
 ```powershell
-cd D:\2026_Codyssey\e1-2_quiz
+cd codyssey-e1-2
 python main.py
 ```
 
@@ -38,7 +38,7 @@ python main.py
 ## 파일 구조
 
 ```text
-e1-2_quiz/
+codyssey-e1-2/
 ├─ main.py       # Quiz, QuizGame 클래스와 실행 코드
 ├─ state.json    # 퀴즈·최고 점수·게임 기록 저장
 └─ README.md     # 실행 방법과 기능 설명
